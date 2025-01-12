@@ -1,0 +1,33 @@
+
+
+/*nav styles*/
+nav{
+    display:flex;
+align-items: center;
+    justify-content:space-between;
+    margin: 3px;0px 2px;
+}
+.nav-title{
+
+    font-weight: 800;
+    font-size: 45px;
+
+
+}
+nav ul li{
+    list-style:none ;
+}
+.btn-primary{
+    background-color:none ;
+    color:green;
+    padding: 20px;px 25px;
+    border-radius: 4px;
+    font-size: medium;
+border-color:green;
+}
+.image-container img{
+    max-width: 60%;
+    width:80%;
+    border-radius:10px;
+    display:flex;
+}
